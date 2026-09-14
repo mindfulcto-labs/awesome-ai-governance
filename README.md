@@ -73,6 +73,7 @@ The evidence layer regulators will ask for. Langfuse, listed under Evaluation an
 
 - [OpenTelemetry Generative AI semantic conventions](https://opentelemetry.io/docs/specs/semconv/gen-ai/) - The emerging standard for tracing LLM calls. Cross-vendor, cross-stack.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) - OTel-based observability built specifically for LLM workloads.
+- [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) - Public signed AI measurements with an offline verifier, useful when a CTO needs evidence that can be checked without trusting its producer.
 
 ## AIBOM and Provenance
 
