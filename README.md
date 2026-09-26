@@ -89,6 +89,7 @@ Real-world incidents and rulings. The tuition nobody wants to pay twice.
 - [Moffatt v. Air Canada, 2024 BCCRT 149](https://www.canlii.org/en/bc/bccrt/doc/2024/2024bccrt149/2024bccrt149.html) - The BC Civil Resolution Tribunal ruling that established that your chatbot's claims bind you. Required reading.
 - [Italian DPA measure on ChatGPT, 2023](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9870832) - The first major EU regulator move on a public LLM. Sets the GDPR-versus-LLM template.
 - [ICO enforcement actions](https://ico.org.uk/action-weve-taken/enforcement/) - The UK regulator's running record of AI and automated-decisioning actions.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Month-by-month record of real-world AI agent security incidents since January 2025, each with a primary source and a flag for whether there was a confirmed victim. Useful for showing a board what agents have actually broken, not just what researchers showed they could.
 
 ## Books, Papers, and Long-form
 
