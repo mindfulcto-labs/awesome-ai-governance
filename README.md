@@ -40,6 +40,7 @@ Practitioner playbooks that compile the above into ways of working.
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook/) - Google PAIR's design-led guidance. Useful when product and design need a shared vocabulary with engineering.
 - [IBM AI Ethics](https://www.ibm.com/impact/ai-ethics) - Board-level governance shape, helpful when standing up an AI ethics committee.
 - [ICO Guidance on AI and Data Protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/) - The UK regulator's own AI auditing framework, essential for any UK programme.
+- [AI Governance Templates (NosisTech)](https://github.com/nosistech/governance-templates) - Four fill-in templates (use policy, tool register, vendor questionnaire, incident playbook) that turn governance principles into working documents for small and mid-size organisations.
 
 ## Runtime Governance Tooling
 
